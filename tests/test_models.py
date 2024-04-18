@@ -2,7 +2,6 @@ import unittest
 
 from domain.models import Operands
 
-
 class TestOperands(unittest.TestCase):
     def test_operands_creation(self):
         # Test to ensure that the operands are correctly set
