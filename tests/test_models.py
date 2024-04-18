@@ -1,6 +1,6 @@
 import unittest
 
-from domain.models import Operands
+from src.pytemplate.domain.models import Operands
 
 
 class TestOperands(unittest.TestCase):
